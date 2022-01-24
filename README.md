@@ -24,7 +24,7 @@ we will need something to wake it up to run the new task which is ProducerThread
 
 ## Notes
 ```python
-This is solution is made using java spring boot just to use speing functionalities and for grouping our folders and solution
+This is solution is made using java spring boot just to use spring functionalities and for grouping our folders and solution
 
 Just to know the approach and the flow of the code and algorithm
 
